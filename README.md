@@ -24,7 +24,7 @@
 
 ```
 
-### Go中使用，func (d *DefaultFunctionCaller) CallFunction(name string, args []interface{})实现默认方法
+### Go中使用ConditionExpr，func (d *DefaultFunctionCaller) CallFunction(name string, args []interface{})实现默认方法
 
 ```
 // main.go
