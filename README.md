@@ -5,7 +5,7 @@
 - 支持=、!=、>、>=、<、<=、!、||、&&条件运算符
 
 ### Java中使用, App.registerDefaultFunctions()默认函数
-```
+```     // App.java
         Map<String, Object> variables = new HashMap<>();
 
         // 设置一些示例变量
